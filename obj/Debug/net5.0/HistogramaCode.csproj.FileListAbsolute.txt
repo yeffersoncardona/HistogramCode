@@ -1,0 +1,16 @@
+C:\Repositorios\pruebaDigitalWare\HistogramaCode\bin\Debug\net5.0\HistogramaCode.exe
+C:\Repositorios\pruebaDigitalWare\HistogramaCode\bin\Debug\net5.0\HistogramaCode.deps.json
+C:\Repositorios\pruebaDigitalWare\HistogramaCode\bin\Debug\net5.0\HistogramaCode.runtimeconfig.json
+C:\Repositorios\pruebaDigitalWare\HistogramaCode\bin\Debug\net5.0\HistogramaCode.runtimeconfig.dev.json
+C:\Repositorios\pruebaDigitalWare\HistogramaCode\bin\Debug\net5.0\HistogramaCode.dll
+C:\Repositorios\pruebaDigitalWare\HistogramaCode\bin\Debug\net5.0\HistogramaCode.pdb
+C:\Repositorios\pruebaDigitalWare\HistogramaCode\obj\Debug\net5.0\HistogramaCode.csproj.AssemblyReference.cache
+C:\Repositorios\pruebaDigitalWare\HistogramaCode\obj\Debug\net5.0\HistogramaCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\pruebaDigitalWare\HistogramaCode\obj\Debug\net5.0\HistogramaCode.AssemblyInfoInputs.cache
+C:\Repositorios\pruebaDigitalWare\HistogramaCode\obj\Debug\net5.0\HistogramaCode.AssemblyInfo.cs
+C:\Repositorios\pruebaDigitalWare\HistogramaCode\obj\Debug\net5.0\HistogramaCode.csproj.CoreCompileInputs.cache
+C:\Repositorios\pruebaDigitalWare\HistogramaCode\obj\Debug\net5.0\HistogramaCode.dll
+C:\Repositorios\pruebaDigitalWare\HistogramaCode\obj\Debug\net5.0\refint\HistogramaCode.dll
+C:\Repositorios\pruebaDigitalWare\HistogramaCode\obj\Debug\net5.0\HistogramaCode.pdb
+C:\Repositorios\pruebaDigitalWare\HistogramaCode\obj\Debug\net5.0\HistogramaCode.genruntimeconfig.cache
+C:\Repositorios\pruebaDigitalWare\HistogramaCode\obj\Debug\net5.0\ref\HistogramaCode.dll
